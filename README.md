@@ -188,7 +188,7 @@ This project is build with:
 
 ## Authors
 
-👤 **Ben Mukebo**
+👤 **Syeda Juveria Afreen**
 
 - GitHub: [@sja-thedude](https://github.com/sja-thedude)
 - Twitter [@sja_thedude](https://twitter.com/sja_thedudo)
